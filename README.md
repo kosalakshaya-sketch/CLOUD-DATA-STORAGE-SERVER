@@ -1,7 +1,7 @@
 # CLOUD-DATA-STORAGE-SERVER
 
-### NAME: MUDDA DIVYANKA SHRUTHI
-### REG NO: 212225020028
+### NAME: KOSAL AKSHAYA S
+### REG NO: 212225020021
 
 ## Aim
 
@@ -59,14 +59,11 @@ Password : lab-password
 After submitting the above details, perform Add, Edit, and Delete operations on the Address Book application.
 
 ## Output
-<img width="1535" height="728" alt="Screenshot 2026-11-16 102153" src="https://github.com/user-attachments/assets/4e6b7811-86ec-4c04-a595-4816b175c8e1" />
-<img width="1535" height="722" alt="Screenshot 2026-11-16 102337" src="https://github.com/user-attachments/assets/7efc6e60-ea51-40a0-b095-12bdee48b1a3" />
-<img width="997" height="678" alt="Screenshot 2026-11-16 102917" src="https://github.com/user-attachments/assets/b7bcff49-6cf3-450d-85ca-371fbfaf372f" />
-<img width="1006" height="658" alt="Screenshot 2026-11-16 102939" src="https://github.com/user-attachments/assets/49390a46-b05e-4800-bd9e-6a34bffe3365" />
-<img width="1006" height="702" alt="Screenshot 2026-11-16 103951" src="https://github.com/user-attachments/assets/14579672-df6e-400a-8af5-45e83c80c885" />
-<img width="1080" height="693" alt="WhatsApp Image 2026-11-16 at 20 19 20" src="https://github.com/user-attachments/assets/e3122ed3-9cf6-424b-9121-481f09c33b98" />
-<img width="1532" height="728" alt="Screenshot 2026-11-16 142931" src="https://github.com/user-attachments/assets/5c67b377-e402-44c8-a9b8-ab3505831116" />
+<img width="1920" height="930" alt="task 1 " src="https://github.com/user-attachments/assets/6c2773f6-4a58-4fbc-9d7c-7ad980487f37" />
+<img width="1920" height="1032" alt="TASK 2" src="https://github.com/user-attachments/assets/e7d0c6f4-db2b-463d-9a30-ae844b5f7905" />
+<img width="1920" height="871" alt="task 3" src="https://github.com/user-attachments/assets/016dfa9f-86da-429c-9c42-a9c0e44a04c5" />
+<img width="1045" height="660" alt="Screenshot 2026-11-16 221338" src="https://github.com/user-attachments/assets/a54bf0b7-9caf-4459-95da-560a84b85c38" />
+<img width="1033" height="513" alt="Screenshot 2026-11-16 221400" src="https://github.com/user-attachments/assets/2c035b73-664e-4865-ab75-f434a25b1225" />
 
 ## Result
-
 Thus, an Amazon RDS database instance was successfully created and configured as a cloud data storage server. The database was securely connected to a web application, and data operations such as inserting, updating, and deleting records were successfully performed through the application.
